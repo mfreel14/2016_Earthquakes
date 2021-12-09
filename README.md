@@ -8,6 +8,8 @@ The project maps all earthquakes in 2016 using Tableau.
 
 ## Resources
 
+- Data Files: earthquakes_database.csv
+
 -  Software/Languages: Tableau 
 
 ## Project Dashboard
